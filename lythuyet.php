@@ -6,6 +6,7 @@ switch($data){
     case 'ok': echo 'day la ok';break;
     case 'xin chao': echo 'day la xin chao';break;
     case 'hello': echo 'day la so hello';break;
+    case 'bye': echo 'day la so bye';break;    
     default: echo 'toi thuc thi nhe';
 }
 //include-require: goi 1 file PHP ben ngoai vao de thuc thi
